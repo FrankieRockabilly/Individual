@@ -1,0 +1,17 @@
+[
+    {
+        "judul" :"Web GIS puskesmas Rokan Hulu",
+        "ket" : "Saya membuat aplikasi pelayanan masyarakat dengan sebuah aplikasi web GIS untuk pencarian lokasi puskesmas di Kabupaten Rohul",
+        "img" : "https://raw.githubusercontent.com/snailgis/vue_webgis/master/client/src/assets/readmeImg/openlayerCluster.png"
+    },
+    {
+        "judul" :"Website Portfollio Pribadi",
+        "ket" : "Web yang sedang saya buat ini masuk ke dalam salah satu portfolio saya untuk kedepannya bisa menjadi lebih baik dan diperbagus ",
+        "img" : "../img/portfolio.png"
+    },
+    {
+        "judul" :"Aplikasi Pengaduan Masyarakat",
+        "ket" : "Saya membuat aplikasi pelayanan masyarakat dengan sebuah aplikasi Pengaduan Masyarakat sebagai efisiensi pelaporan permasalaha masyarakat",
+        "img" : "https://referensicoding.com/demo-aplikasi-pengaduan-masyarakat-v-1-0-laravel-free-source-code-database/1649675749_maxresdefault.jpg"
+    }
+]

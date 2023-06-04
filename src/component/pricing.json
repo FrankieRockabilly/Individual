@@ -1,0 +1,23 @@
+[
+    {
+        "jenis" : "-BASIC-",
+        "harga" : "$100",
+        "hari" : "- 3 Days -",
+        "pages" : "- 3 Pages -",
+        "featured" : "- Responsive Design -"
+    },
+    {
+        "jenis" : "-beginner-",
+        "harga" : "$230",
+        "hari" : "-10 Days -",
+        "pages" : "- 7 Pages -",
+        "featured" : "- Responsive Design -"
+    },
+    {
+        "jenis" : "-Professional-",
+        "harga" : "$520",
+        "hari" : "- 30 Days -",
+        "pages" : "- 25 Pages -",
+        "featured" : "- Responsive Design -"
+    }
+]

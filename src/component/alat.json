@@ -1,0 +1,17 @@
+[
+    {
+        "nama" : "HTML",
+        "ket" :"HTML adalah bahasa markup standar untuk membuat halaman website. Bahasa ini berfungsi untuk membuat struktur website hingga menyusun format teks dan gambar pada halaman web",
+        "img": "https://cdn0.iconfinder.com/data/icons/cosmo-documents/40/html-512.png"
+    },
+    {
+        "nama" : "TailwindCSS",
+        "ket" :"TailwindCSS merupakan salah satu library CSS untuk styling komponen secara langsung dengan membuat class pada elemen yang ingin diubah",
+        "img": "https://creazilla-store.fra1.digitaloceanspaces.com/icons/3211264/tailwind-icon-md.png"
+    },
+    {
+        "nama" : "RectJS",
+        "ket" :"React JS adalah library JavaScript yang biasa digunakan saat membangun UI suatu website atau aplikasi web",
+        "img": "https://seekicon.com/free-icon-download/react_1.png"
+    }
+]

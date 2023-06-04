@@ -1,0 +1,28 @@
+[
+    {
+        "id" : 1,
+        "jenis" : "SMP SALAFIYAH BABUSSALAM",
+        "isi" : "-",
+        "tanggal" :"2012-2014",
+        "gambar" : "./img/bbs.jpg",
+        "suka" : 649
+        
+    },
+    {
+        "id" : 1,
+        "jenis" : "sma salafiyah babussalam",
+        "isi" : "IPA",
+        "tanggal" : "2014-2016",
+        "gambar" : "./img/sma.jpg",
+        "suka" : 100
+
+    },
+    {
+        "id" : 1,
+        "jenis" : "universitas pasir pengaraian",
+        "isi" : "TEKNIK INFORMATIKA",
+        "tanggal" : "2018-2022",
+        "gambar" : "./img/upp.jpg",
+        "suka" : 230
+    }
+]
