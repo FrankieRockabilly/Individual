@@ -15,7 +15,7 @@ class Home extends Component {
                 {/* <Sidebar/> */}
                 <div style={{backgroundImage :"url('https://cdn.pixabay.com/photo/2015/10/31/14/36/dark-1015830_960_720.jpg')", backgroundSize :'cover' }} className=" bg-gradient-to-r from-black to-slate-800 h-[100vh] px-28 py-28">
                     <div className="text-white md:text-center">
-                        <h2 className="text-white font-bold text-2xl">Hello, im <span className="text-green-800">Frengky</span> </h2>
+                        <h2 className="text-white font-bold text-2xl">Hello, im <span className="text-green-800">Frengky Iskandar</span> </h2>
                         <h2 className="text-5xl font-bold font-sans">Web Developer</h2>
                         <div className="text-center mt-36 mb-10 md:mb-28">
                             <p className="mt-10">follow me on:</p>
